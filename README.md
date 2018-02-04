@@ -1,25 +1,5 @@
-# ReduxSimpleStarter
+# Higher Order Components in React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This repo is for myself. I doubt anyone would find any use of this. But any way...
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+A Higher order Component is a Component that adds some additional functionality to the already existing Component.
