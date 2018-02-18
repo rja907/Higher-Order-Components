@@ -3,8 +3,8 @@ import {
 } from './types';
 
 export function authenticate(isLoggedIn){
-  return (
+  return {
     type: CHANGE_AUTH,
     payload: isLoggedIn
-  );
+  };
 }
