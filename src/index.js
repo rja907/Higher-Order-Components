@@ -6,6 +6,7 @@ import { Router, Route, browserHistory} from 'react-router';
 //Router instructs Route to rerender different components.
 //browserHistory tells Router how to keep track of the current URL.
 
+import requireAuth from './components/require_authentication';
 import App from './components/app';
 import Resources from './components/resources';
 import reducers from './reducers';
