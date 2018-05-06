@@ -4,7 +4,7 @@ This repo is for myself. I doubt anyone would find any use of this. But any way.
 
 A Higher order Component is a Component that adds some additional functionality to the already existing Component.
 
-####### According to reactjs.org:
+> According to reactjs.org:
 A higher-order component (HOC) is an advanced technique in React for reusing component logic. HOCs are not part of the React API, per se. They are a pattern that emerges from React’s compositional nature.
 
 Concretely, a higher-order component is a function that takes a component and returns a new component.
